@@ -8,7 +8,7 @@ const Features = () => {
         <Typography className='text-dark-amaranth_purple-800 text-2xl font-medium text-center py-[2.2rem]'>
             It's as simple as <span className='text-dark-royal_purple text-3xl font-bold'>That!</span>
         </Typography>
-
+ 
         <section className='flex justify-center items-center flex-wrap gap-x-[2rem] gap-y-[3rem] sm:gap-y-0 flex-col sm:flex-row'>
 
             <div className={`flex flex-col justify-around items-start w-[300px] sm:w-[400px] ring-dark-amaranth_purple-700 rounded-lg ring-1 px-[1rem] py-[1.3rem] shadow-dark-amaranth_purple-700 shadow-md hover:translate-x-1 hover:scale-95 hover:shadow-lg transition-all duration-300 ease-in-out`}>
@@ -54,9 +54,7 @@ const Features = () => {
                 </button>
             </div>
         </section>
-
         <section>
-
         </section>
     </div>
   )

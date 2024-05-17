@@ -5,9 +5,10 @@ import Hero from '@/components/home/hero'
 import Webinars from '@/components/home/webinars'
 import React from 'react'
 
+
 const Pages = () => {
   return (
-    <div>
+<div>
          <Hero />
         <Features />
         <Courses />
