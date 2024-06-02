@@ -88,7 +88,7 @@ const SignIn = () => {
 
           <section className='flex flex-col gap-y-[6px] w-full px-[2.2rem] py-[1rem] justify-between items-center'>
           <Typography className='text-sm text-dark-majorelle_blue-700 cursor-pointer'>
-            Don't have an Account? Sign up
+            Dont have an Account? Sign up
           </Typography>
 
           <Typography className='text-sm text-red-400 cursor-pointer'>
